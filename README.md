@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KrishhBabbar/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/KrishhBabbar/DSA/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/KrishhBabbar/DSA/tree/master/0164-maximum-gap) |
+| [0209-minimum-size-subarray-sum](https://github.com/KrishhBabbar/DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KrishhBabbar/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/KrishhBabbar/DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/KrishhBabbar/DSA/tree/master/0258-add-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KrishhBabbar/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KrishhBabbar/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
